@@ -1,4 +1,3 @@
 # Typescript-Taller-1
 
-![GitHub Logo](/Captura.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://github.com/paulinaacosta/Typescript-Taller-1/blob/main/Captura.PNG)
